@@ -39,6 +39,15 @@ p1 {
 
 th {
 	font-family: "Times New Roman", serif;
-    font-size: 30px;
+    font-size: 100px;
 }
 
+td {
+    font-size: 50px;
+}
+
+.birthday-button {
+    color: blue;
+    font-size: 200px;
+    display: none;
+}
